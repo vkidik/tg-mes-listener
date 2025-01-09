@@ -1,0 +1,8 @@
+{
+    "channels": [
+      {
+        "id": 123456789,
+        "name": "from_source_channel"
+      }
+    ]
+  }
