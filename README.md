@@ -1,6 +1,3 @@
-
-
-```markdown
 # Telegram Channel Message Forwarder
 
 This project is a Node.js application that listens for new messages in specified Telegram channels and forwards them to other specified channels.
